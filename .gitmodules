@@ -1,0 +1,3 @@
+[submodule "aiops"]
+	path = aiops
+	url = https://github.com/alibaba/sreworks-ext.git
